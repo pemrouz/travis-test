@@ -1,0 +1,6 @@
+{
+  "name": "travis-test",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
